@@ -1,0 +1,839 @@
+{
+  "meta": {
+    "name": "TheMealDB real Chinese recipe seed data",
+    "version": "2026.06.11",
+    "licenseNote": "TheMealDB is an open, crowd-sourced recipe database with free API access for testing/personal projects. Check TheMealDB terms before commercial/public app release.",
+    "source": "https://www.themealdb.com/api.php"
+  },
+  "cuisines": [
+    {
+      "name": "粤菜",
+      "icon": "🥢",
+      "desc": "以云吞、捞面等中式餐食为主"
+    },
+    {
+      "name": "川菜",
+      "icon": "🔥",
+      "desc": "麻辣鲜香，含麻婆豆腐、宫保鸡丁等"
+    },
+    {
+      "name": "家常菜",
+      "icon": "🍳",
+      "desc": "家常中式菜、汤、凉菜"
+    }
+  ],
+  "banners": [
+    {
+      "id": 1,
+      "title": "川菜麻辣组合",
+      "subtitle": "麻婆豆腐 + 宫保鸡丁 + 川味茄子",
+      "image": "https://www.themealdb.com/images/media/meals/1525874812.jpg",
+      "dishIds": [
+        52947,
+        52945,
+        53374
+      ]
+    },
+    {
+      "id": 2,
+      "title": "家常酸甜组合",
+      "subtitle": "橙汁鸡 + 左宗棠鸡 + 酸辣汤",
+      "image": "https://www.themealdb.com/images/media/meals/s73ytv1765567838.jpg",
+      "dishIds": [
+        53365,
+        52951,
+        52954
+      ]
+    },
+    {
+      "id": 3,
+      "title": "轻食主食组合",
+      "subtitle": "云吞 + 牛肉捞面 + 芝麻酱嫩豆腐",
+      "image": "https://www.themealdb.com/images/media/meals/1525876468.jpg",
+      "dishIds": [
+        52948,
+        52952,
+        53369
+      ]
+    }
+  ],
+  "dishes": [
+    {
+      "id": 52947,
+      "name": "麻婆豆腐",
+      "originalName": "Ma Po Tofu",
+      "cuisine": "川菜",
+      "category": "家常菜",
+      "taste": "麻辣鲜香",
+      "image": "https://www.themealdb.com/images/media/meals/1525874812.jpg",
+      "specs": [
+        {
+          "label": "1-2人份",
+          "people": 2
+        },
+        {
+          "label": "3-4人份",
+          "people": 4
+        }
+      ],
+      "ingredients": [
+        "450g Tofu",
+        "100g Minced Beef",
+        "1/2 tbs Sesame Seed Oil",
+        "1 1/2 tsp Doubanjiang",
+        "1/2 tsp Fermented Black Beans",
+        "1 tbs Pepper",
+        "1/2 tsp Salt",
+        "1/2 tsp Sichuan pepper",
+        "1 tbs Soy Sauce",
+        "400ml Water",
+        "2 tbs Olive Oil",
+        "2 chopped Scallions",
+        "4 Spring Onions",
+        "2 cloves chopped Garlic",
+        "4 sliced Ginger"
+      ],
+      "tools": [
+        "炒锅/汤锅",
+        "菜刀",
+        "砧板"
+      ],
+      "cookingTime": "30-45分钟",
+      "difficulty": "中等",
+      "description": "真实来源：TheMealDB - Ma Po Tofu。图片为 TheMealDB 真实菜品图，菜谱步骤按项目结构整理。",
+      "steps": [
+        {
+          "title": "步骤 1",
+          "text": "Season minced beef with salt and sesame oil.",
+          "image": "https://www.themealdb.com/images/media/meals/1525874812.jpg",
+          "duration": "3-8分钟",
+          "tip": "真实数据源只提供成品图；步骤图可先用成品图兜底，后续补充实拍步骤图。"
+        },
+        {
+          "title": "步骤 2",
+          "text": "Cut tofu into cubes, blanch in salted boiling water for 1 minute and drain.",
+          "image": "https://www.themealdb.com/images/media/meals/1525874812.jpg",
+          "duration": "3-8分钟",
+          "tip": "真实数据源只提供成品图；步骤图可先用成品图兜底，后续补充实拍步骤图。"
+        },
+        {
+          "title": "步骤 3",
+          "text": "Fry minced beef until crispy, then remove and keep the oil.",
+          "image": "https://www.themealdb.com/images/media/meals/1525874812.jpg",
+          "duration": "3-8分钟",
+          "tip": "真实数据源只提供成品图；步骤图可先用成品图兜底，后续补充实拍步骤图。"
+        },
+        {
+          "title": "步骤 4",
+          "text": "Fry doubanjiang, garlic, scallion, ginger and fermented black beans until aromatic.",
+          "image": "https://www.themealdb.com/images/media/meals/1525874812.jpg",
+          "duration": "3-8分钟",
+          "tip": "真实数据源只提供成品图；步骤图可先用成品图兜底，后续补充实拍步骤图。"
+        },
+        {
+          "title": "步骤 5",
+          "text": "Add water, tofu and soy sauce; simmer 6–8 minutes.",
+          "image": "https://www.themealdb.com/images/media/meals/1525874812.jpg",
+          "duration": "3-8分钟",
+          "tip": "真实数据源只提供成品图；步骤图可先用成品图兜底，后续补充实拍步骤图。"
+        },
+        {
+          "title": "步骤 6",
+          "text": "Thicken with starch slurry and serve with rice.",
+          "image": "https://www.themealdb.com/images/media/meals/1525874812.jpg",
+          "duration": "3-8分钟",
+          "tip": "真实数据源只提供成品图；步骤图可先用成品图兜底，后续补充实拍步骤图。"
+        }
+      ],
+      "source": {
+        "provider": "TheMealDB",
+        "url": "https://www.themealdb.com/meal/52947-ma-po-tofu-recipe",
+        "image": "https://www.themealdb.com/images/media/meals/1525874812.jpg"
+      }
+    },
+    {
+      "id": 52945,
+      "name": "宫保鸡丁",
+      "originalName": "Kung Pao Chicken",
+      "cuisine": "川菜",
+      "category": "家常荤菜",
+      "taste": "糊辣酸甜",
+      "image": "https://www.themealdb.com/images/media/meals/1525872624.jpg",
+      "specs": [
+        {
+          "label": "1-2人份",
+          "people": 2
+        },
+        {
+          "label": "3-4人份",
+          "people": 4
+        }
+      ],
+      "ingredients": [
+        "2 tbs Sake",
+        "2 tbs Soy Sauce",
+        "2 tbs Sesame Seed Oil",
+        "2 tbs Corn Flour",
+        "2 tbs Water",
+        "500g Chicken",
+        "1 tbs Chilli Powder",
+        "1 tsp Rice Vinegar",
+        "1 tbs Brown Sugar",
+        "4 Chopped Spring Onions",
+        "6 cloves Garlic Clove",
+        "220g Water Chestnut",
+        "100g Peanuts"
+      ],
+      "tools": [
+        "炒锅/汤锅",
+        "菜刀",
+        "砧板"
+      ],
+      "cookingTime": "30-45分钟",
+      "difficulty": "中等",
+      "description": "真实来源：TheMealDB - Kung Pao Chicken。图片为 TheMealDB 真实菜品图，菜谱步骤按项目结构整理。",
+      "steps": [
+        {
+          "title": "步骤 1",
+          "text": "Mix rice wine, soy sauce, sesame oil and cornflour slurry.",
+          "image": "https://www.themealdb.com/images/media/meals/1525872624.jpg",
+          "duration": "3-8分钟",
+          "tip": "真实数据源只提供成品图；步骤图可先用成品图兜底，后续补充实拍步骤图。"
+        },
+        {
+          "title": "步骤 2",
+          "text": "Marinate chicken with half of the sauce for about 30 minutes.",
+          "image": "https://www.themealdb.com/images/media/meals/1525872624.jpg",
+          "duration": "3-8分钟",
+          "tip": "真实数据源只提供成品图；步骤图可先用成品图兜底，后续补充实拍步骤图。"
+        },
+        {
+          "title": "步骤 3",
+          "text": "Heat remaining sauce with chilli, vinegar, sugar, spring onion, garlic, water chestnuts and peanuts.",
+          "image": "https://www.themealdb.com/images/media/meals/1525872624.jpg",
+          "duration": "3-8分钟",
+          "tip": "真实数据源只提供成品图；步骤图可先用成品图兜底，后续补充实拍步骤图。"
+        },
+        {
+          "title": "步骤 4",
+          "text": "Sauté chicken until cooked through.",
+          "image": "https://www.themealdb.com/images/media/meals/1525872624.jpg",
+          "duration": "3-8分钟",
+          "tip": "真实数据源只提供成品图；步骤图可先用成品图兜底，后续补充实拍步骤图。"
+        },
+        {
+          "title": "步骤 5",
+          "text": "Combine chicken and sauce; simmer until thickened.",
+          "image": "https://www.themealdb.com/images/media/meals/1525872624.jpg",
+          "duration": "3-8分钟",
+          "tip": "真实数据源只提供成品图；步骤图可先用成品图兜底，后续补充实拍步骤图。"
+        }
+      ],
+      "source": {
+        "provider": "TheMealDB",
+        "url": "https://themealdb.com/meal/52945-kung-pao-chicken-recipe",
+        "image": "https://www.themealdb.com/images/media/meals/1525872624.jpg"
+      }
+    },
+    {
+      "id": 53374,
+      "name": "川味茄子",
+      "originalName": "Sichuan Eggplant",
+      "cuisine": "川菜",
+      "category": "素菜",
+      "taste": "鱼香麻辣",
+      "image": "https://www.themealdb.com/images/media/meals/1oz4nb1765687990.jpg",
+      "specs": [
+        {
+          "label": "1-2人份",
+          "people": 2
+        },
+        {
+          "label": "3-4人份",
+          "people": 4
+        }
+      ],
+      "ingredients": [
+        "1.5 pounds Egg Plants",
+        "2 tablespoons Peanut Oil",
+        "1/4 cup Chicken Stock",
+        "2 tsp Sugar",
+        "1/2 tsp Soy Sauce",
+        "1 1/2 tbsp Chilli Bean Paste",
+        "2 tsp Sichuan Pepper",
+        "2 tsp Ginger",
+        "5 cloves Garlic",
+        "1 tsp Cornstarch",
+        "2 tsp Apple Cider Vinegar",
+        "4 Chopped Scallions",
+        "Cilantro"
+      ],
+      "tools": [
+        "炒锅/汤锅",
+        "菜刀",
+        "砧板"
+      ],
+      "cookingTime": "30-45分钟",
+      "difficulty": "中等",
+      "description": "真实来源：TheMealDB - Sichuan Eggplant。图片为 TheMealDB 真实菜品图，菜谱步骤按项目结构整理。",
+      "steps": [
+        {
+          "title": "步骤 1",
+          "text": "Cut Asian eggplants into batons.",
+          "image": "https://www.themealdb.com/images/media/meals/1oz4nb1765687990.jpg",
+          "duration": "3-8分钟",
+          "tip": "真实数据源只提供成品图；步骤图可先用成品图兜底，后续补充实拍步骤图。"
+        },
+        {
+          "title": "步骤 2",
+          "text": "Mix stock, sugar and soy sauce in a bowl.",
+          "image": "https://www.themealdb.com/images/media/meals/1oz4nb1765687990.jpg",
+          "duration": "3-8分钟",
+          "tip": "真实数据源只提供成品图；步骤图可先用成品图兜底，后续补充实拍步骤图。"
+        },
+        {
+          "title": "步骤 3",
+          "text": "Mix chilli bean paste, garlic, ginger and Sichuan peppercorns.",
+          "image": "https://www.themealdb.com/images/media/meals/1oz4nb1765687990.jpg",
+          "duration": "3-8分钟",
+          "tip": "真实数据源只提供成品图；步骤图可先用成品图兜底，后续补充实拍步骤图。"
+        },
+        {
+          "title": "步骤 4",
+          "text": "Sauté eggplant until browned and blistered.",
+          "image": "https://www.themealdb.com/images/media/meals/1oz4nb1765687990.jpg",
+          "duration": "3-8分钟",
+          "tip": "真实数据源只提供成品图；步骤图可先用成品图兜底，后续补充实拍步骤图。"
+        },
+        {
+          "title": "步骤 5",
+          "text": "Add aromatics and sauce; simmer briefly.",
+          "image": "https://www.themealdb.com/images/media/meals/1oz4nb1765687990.jpg",
+          "duration": "3-8分钟",
+          "tip": "真实数据源只提供成品图；步骤图可先用成品图兜底，后续补充实拍步骤图。"
+        },
+        {
+          "title": "步骤 6",
+          "text": "Thicken with cornstarch, finish with scallions and vinegar.",
+          "image": "https://www.themealdb.com/images/media/meals/1oz4nb1765687990.jpg",
+          "duration": "3-8分钟",
+          "tip": "真实数据源只提供成品图；步骤图可先用成品图兜底，后续补充实拍步骤图。"
+        }
+      ],
+      "source": {
+        "provider": "TheMealDB",
+        "url": "https://www.themealdb.com/meal/53374-sichuan-eggplant-recipe",
+        "image": "https://www.themealdb.com/images/media/meals/1oz4nb1765687990.jpg"
+      }
+    },
+    {
+      "id": 53365,
+      "name": "陈皮橙汁鸡",
+      "originalName": "Chinese Orange Chicken",
+      "cuisine": "家常菜",
+      "category": "家常荤菜",
+      "taste": "酸甜香脆",
+      "image": "https://www.themealdb.com/images/media/meals/s73ytv1765567838.jpg",
+      "specs": [
+        {
+          "label": "1-2人份",
+          "people": 2
+        },
+        {
+          "label": "3-4人份",
+          "people": 4
+        }
+      ],
+      "ingredients": [
+        "Zest of 1 Orange",
+        "1/4 cup Orange Juice",
+        "1/4 cup Soy Sauce",
+        "1/4 cup Water",
+        "1/3 cup Rice Vinegar",
+        "1 tablespoon Cornstarch",
+        "1 tablespoon Sesame Seed Oil",
+        "1/2 cup Sugar",
+        "650g Chicken Thighs",
+        "2 large Egg",
+        "1 tsp Salt",
+        "1/4 tsp Black Pepper",
+        "1/2 cup Cornstarch",
+        "1/2 cup All purpose flour",
+        "2 cups Vegetable Oil"
+      ],
+      "tools": [
+        "炒锅/汤锅",
+        "菜刀",
+        "砧板"
+      ],
+      "cookingTime": "30-45分钟",
+      "difficulty": "中等",
+      "description": "真实来源：TheMealDB - Chinese Orange Chicken。图片为 TheMealDB 真实菜品图，菜谱步骤按项目结构整理。",
+      "steps": [
+        {
+          "title": "步骤 1",
+          "text": "Whisk orange sauce ingredients and set aside.",
+          "image": "https://www.themealdb.com/images/media/meals/s73ytv1765567838.jpg",
+          "duration": "3-8分钟",
+          "tip": "真实数据源只提供成品图；步骤图可先用成品图兜底，后续补充实拍步骤图。"
+        },
+        {
+          "title": "步骤 2",
+          "text": "Cut chicken into cubes and coat with egg, salt and pepper.",
+          "image": "https://www.themealdb.com/images/media/meals/s73ytv1765567838.jpg",
+          "duration": "3-8分钟",
+          "tip": "真实数据源只提供成品图；步骤图可先用成品图兜底，后续补充实拍步骤图。"
+        },
+        {
+          "title": "步骤 3",
+          "text": "Dredge chicken in flour and cornstarch.",
+          "image": "https://www.themealdb.com/images/media/meals/s73ytv1765567838.jpg",
+          "duration": "3-8分钟",
+          "tip": "真实数据源只提供成品图；步骤图可先用成品图兜底，后续补充实拍步骤图。"
+        },
+        {
+          "title": "步骤 4",
+          "text": "Fry chicken until cooked through and crisp.",
+          "image": "https://www.themealdb.com/images/media/meals/s73ytv1765567838.jpg",
+          "duration": "3-8分钟",
+          "tip": "真实数据源只提供成品图；步骤图可先用成品图兜底，后续补充实拍步骤图。"
+        },
+        {
+          "title": "步骤 5",
+          "text": "Simmer sauce until thickened, then toss with fried chicken.",
+          "image": "https://www.themealdb.com/images/media/meals/s73ytv1765567838.jpg",
+          "duration": "3-8分钟",
+          "tip": "真实数据源只提供成品图；步骤图可先用成品图兜底，后续补充实拍步骤图。"
+        }
+      ],
+      "source": {
+        "provider": "TheMealDB",
+        "url": "https://www.themealdb.com/meal/53365-chinese-orange-chicken-recipe",
+        "image": "https://www.themealdb.com/images/media/meals/s73ytv1765567838.jpg"
+      }
+    },
+    {
+      "id": 52954,
+      "name": "酸辣汤",
+      "originalName": "Hot and Sour Soup",
+      "cuisine": "家常菜",
+      "category": "汤类",
+      "taste": "酸辣开胃",
+      "image": "https://www.themealdb.com/images/media/meals/1529445893.jpg",
+      "specs": [
+        {
+          "label": "1-2人份",
+          "people": 2
+        },
+        {
+          "label": "3-4人份",
+          "people": 4
+        }
+      ],
+      "ingredients": [
+        "1/3 cup Mushrooms",
+        "1/3 cup Wood Ear Mushrooms",
+        "2/3 Cup Tofu",
+        "1/2 cup Pork",
+        "2-1/2 cups Chicken Stock",
+        "1/2 tsp Salt",
+        "1/4 tsp Sugar",
+        "1 tsp Sesame Seed Oil",
+        "1/4 tsp Pepper",
+        "1/2 tsp Hotsauce",
+        "1-1/2 cups Vinegar",
+        "1 tsp Soy Sauce",
+        "1 tbs Cornstarch",
+        "2 tbs Water",
+        "1/4 cup Spring Onions"
+      ],
+      "tools": [
+        "炒锅/汤锅",
+        "菜刀",
+        "砧板"
+      ],
+      "cookingTime": "30-45分钟",
+      "difficulty": "中等",
+      "description": "真实来源：TheMealDB - Hot and Sour Soup。图片为 TheMealDB 真实菜品图，菜谱步骤按项目结构整理。",
+      "steps": [
+        {
+          "title": "步骤 1",
+          "text": "Bring chicken broth to a boil in a wok.",
+          "image": "https://www.themealdb.com/images/media/meals/1529445893.jpg",
+          "duration": "3-8分钟",
+          "tip": "真实数据源只提供成品图；步骤图可先用成品图兜底，后续补充实拍步骤图。"
+        },
+        {
+          "title": "步骤 2",
+          "text": "Add salt, sugar, sesame oil, pepper, hot sauce, vinegar and soy sauce.",
+          "image": "https://www.themealdb.com/images/media/meals/1529445893.jpg",
+          "duration": "3-8分钟",
+          "tip": "真实数据源只提供成品图；步骤图可先用成品图兜底，后续补充实拍步骤图。"
+        },
+        {
+          "title": "步骤 3",
+          "text": "Add tofu, mushrooms and wood ear mushrooms.",
+          "image": "https://www.themealdb.com/images/media/meals/1529445893.jpg",
+          "duration": "3-8分钟",
+          "tip": "真实数据源只提供成品图；步骤图可先用成品图兜底，后续补充实拍步骤图。"
+        },
+        {
+          "title": "步骤 4",
+          "text": "Thicken with cornstarch slurry.",
+          "image": "https://www.themealdb.com/images/media/meals/1529445893.jpg",
+          "duration": "3-8分钟",
+          "tip": "真实数据源只提供成品图；步骤图可先用成品图兜底，后续补充实拍步骤图。"
+        },
+        {
+          "title": "步骤 5",
+          "text": "Stir in beaten egg and finish with pork and spring onions.",
+          "image": "https://www.themealdb.com/images/media/meals/1529445893.jpg",
+          "duration": "3-8分钟",
+          "tip": "真实数据源只提供成品图；步骤图可先用成品图兜底，后续补充实拍步骤图。"
+        }
+      ],
+      "source": {
+        "provider": "TheMealDB",
+        "url": "https://themealdb.com/meal/52954-Hot-and-Sour-Soup",
+        "image": "https://www.themealdb.com/images/media/meals/1529445893.jpg"
+      }
+    },
+    {
+      "id": 52948,
+      "name": "云吞 / 馄饨",
+      "originalName": "Wontons",
+      "cuisine": "粤菜",
+      "category": "主食",
+      "taste": "鲜香酥脆",
+      "image": "https://www.themealdb.com/images/media/meals/1525876468.jpg",
+      "specs": [
+        {
+          "label": "1-2人份",
+          "people": 2
+        },
+        {
+          "label": "3-4人份",
+          "people": 4
+        }
+      ],
+      "ingredients": [
+        "1lb Pork",
+        "3 chopped Garlic Clove",
+        "1 tsp Ginger",
+        "1 tbs Soy Sauce",
+        "1 tsp Sesame Seed Oil",
+        "3 finely chopped Carrots",
+        "3 finely chopped Celery",
+        "6 chopped Spring Onions",
+        "1 Packet Wonton Skin",
+        "Fry Oil",
+        "Bottle Water"
+      ],
+      "tools": [
+        "炒锅/汤锅",
+        "菜刀",
+        "砧板"
+      ],
+      "cookingTime": "30-45分钟",
+      "difficulty": "中等",
+      "description": "真实来源：TheMealDB - Wontons。图片为 TheMealDB 真实菜品图，菜谱步骤按项目结构整理。",
+      "steps": [
+        {
+          "title": "步骤 1",
+          "text": "Combine pork, garlic, ginger, soy sauce, sesame oil and vegetables.",
+          "image": "https://www.themealdb.com/images/media/meals/1525876468.jpg",
+          "duration": "3-8分钟",
+          "tip": "真实数据源只提供成品图；步骤图可先用成品图兜底，后续补充实拍步骤图。"
+        },
+        {
+          "title": "步骤 2",
+          "text": "Separate wonton skins.",
+          "image": "https://www.themealdb.com/images/media/meals/1525876468.jpg",
+          "duration": "3-8分钟",
+          "tip": "真实数据源只提供成品图；步骤图可先用成品图兜底，后续补充实拍步骤图。"
+        },
+        {
+          "title": "步骤 3",
+          "text": "Place filling in the center of each wrapper.",
+          "image": "https://www.themealdb.com/images/media/meals/1525876468.jpg",
+          "duration": "3-8分钟",
+          "tip": "真实数据源只提供成品图；步骤图可先用成品图兜底，后续补充实拍步骤图。"
+        },
+        {
+          "title": "步骤 4",
+          "text": "Brush edges with water and fold into triangles.",
+          "image": "https://www.themealdb.com/images/media/meals/1525876468.jpg",
+          "duration": "3-8分钟",
+          "tip": "真实数据源只提供成品图；步骤图可先用成品图兜底，后续补充实拍步骤图。"
+        },
+        {
+          "title": "步骤 5",
+          "text": "Pinch the corners together.",
+          "image": "https://www.themealdb.com/images/media/meals/1525876468.jpg",
+          "duration": "3-8分钟",
+          "tip": "真实数据源只提供成品图；步骤图可先用成品图兜底，后续补充实拍步骤图。"
+        },
+        {
+          "title": "步骤 6",
+          "text": "Fry until golden and drain.",
+          "image": "https://www.themealdb.com/images/media/meals/1525876468.jpg",
+          "duration": "3-8分钟",
+          "tip": "真实数据源只提供成品图；步骤图可先用成品图兜底，后续补充实拍步骤图。"
+        }
+      ],
+      "source": {
+        "provider": "TheMealDB",
+        "url": "https://www.themealdb.com/meal/52948-wontons-recipe",
+        "image": "https://www.themealdb.com/images/media/meals/1525876468.jpg"
+      }
+    },
+    {
+      "id": 52951,
+      "name": "左宗棠鸡",
+      "originalName": "General Tsos Chicken",
+      "cuisine": "家常菜",
+      "category": "家常荤菜",
+      "taste": "甜辣浓香",
+      "image": "https://www.themealdb.com/images/media/meals/1529444113.jpg",
+      "specs": [
+        {
+          "label": "1-2人份",
+          "people": 2
+        },
+        {
+          "label": "3-4人份",
+          "people": 4
+        }
+      ],
+      "ingredients": [
+        "1 1/2 Chicken Breast",
+        "3/4 cup Plain Flour",
+        "1 Egg",
+        "2 tbs Starch",
+        "1 tbs Baking Powder",
+        "1 tsp Salt",
+        "1/2 tsp Onion Salt",
+        "1/4 tsp Garlic Powder",
+        "3/4 cup Water",
+        "1/2 cup Chicken Stock",
+        "1/4 cup Duck Sauce",
+        "3 tbs Soy Sauce",
+        "2 tbs Honey",
+        "1 tbs Rice Vinegar",
+        "2 tbs Sesame Seed Oil"
+      ],
+      "tools": [
+        "炒锅/汤锅",
+        "菜刀",
+        "砧板"
+      ],
+      "cookingTime": "30-45分钟",
+      "difficulty": "中等",
+      "description": "真实来源：TheMealDB - General Tsos Chicken。图片为 TheMealDB 真实菜品图，菜谱步骤按项目结构整理。",
+      "steps": [
+        {
+          "title": "步骤 1",
+          "text": "Mix sauce ingredients in a bowl.",
+          "image": "https://www.themealdb.com/images/media/meals/1529444113.jpg",
+          "duration": "3-8分钟",
+          "tip": "真实数据源只提供成品图；步骤图可先用成品图兜底，后续补充实拍步骤图。"
+        },
+        {
+          "title": "步骤 2",
+          "text": "Marinate chicken with seasoning and starch.",
+          "image": "https://www.themealdb.com/images/media/meals/1529444113.jpg",
+          "duration": "3-8分钟",
+          "tip": "真实数据源只提供成品图；步骤图可先用成品图兜底，后续补充实拍步骤图。"
+        },
+        {
+          "title": "步骤 3",
+          "text": "Deep-fry chicken until golden.",
+          "image": "https://www.themealdb.com/images/media/meals/1529444113.jpg",
+          "duration": "3-8分钟",
+          "tip": "真实数据源只提供成品图；步骤图可先用成品图兜底，后续补充实拍步骤图。"
+        },
+        {
+          "title": "步骤 4",
+          "text": "Boil sauce with vegetables.",
+          "image": "https://www.themealdb.com/images/media/meals/1529444113.jpg",
+          "duration": "3-8分钟",
+          "tip": "真实数据源只提供成品图；步骤图可先用成品图兜底，后续补充实拍步骤图。"
+        },
+        {
+          "title": "步骤 5",
+          "text": "Thicken sauce and stir-fry chicken briefly.",
+          "image": "https://www.themealdb.com/images/media/meals/1529444113.jpg",
+          "duration": "3-8分钟",
+          "tip": "真实数据源只提供成品图；步骤图可先用成品图兜底，后续补充实拍步骤图。"
+        }
+      ],
+      "source": {
+        "provider": "TheMealDB",
+        "url": "https://www.themealdb.com/meal/52951-general-tsos-chicken-recipe",
+        "image": "https://www.themealdb.com/images/media/meals/1529444113.jpg"
+      }
+    },
+    {
+      "id": 52952,
+      "name": "牛肉捞面",
+      "originalName": "Beef Lo Mein",
+      "cuisine": "粤菜",
+      "category": "主食",
+      "taste": "咸香浓郁",
+      "image": "https://www.themealdb.com/images/media/meals/1529444830.jpg",
+      "specs": [
+        {
+          "label": "1-2人份",
+          "people": 2
+        },
+        {
+          "label": "3-4人份",
+          "people": 4
+        }
+      ],
+      "ingredients": [
+        "1/2 lb Beef",
+        "Salt",
+        "Pepper",
+        "2 tsp Sesame Seed Oil",
+        "1/2 Egg",
+        "3 tbs Starch",
+        "5 tbs Oil",
+        "1/4 lb Noodles",
+        "1/2 cup Onion",
+        "1 tsp Minced Garlic",
+        "1 tsp Ginger",
+        "1 cup Bean Sprouts",
+        "1 cup Mushrooms",
+        "1 cup Water",
+        "1 tbs Oyster Sauce"
+      ],
+      "tools": [
+        "炒锅/汤锅",
+        "菜刀",
+        "砧板"
+      ],
+      "cookingTime": "30-45分钟",
+      "difficulty": "中等",
+      "description": "真实来源：TheMealDB - Beef Lo Mein。图片为 TheMealDB 真实菜品图，菜谱步骤按项目结构整理。",
+      "steps": [
+        {
+          "title": "步骤 1",
+          "text": "Marinate beef with salt, pepper, sesame oil, egg and starch.",
+          "image": "https://www.themealdb.com/images/media/meals/1529444830.jpg",
+          "duration": "3-8分钟",
+          "tip": "真实数据源只提供成品图；步骤图可先用成品图兜底，后续补充实拍步骤图。"
+        },
+        {
+          "title": "步骤 2",
+          "text": "Boil noodles briefly, strain and cool.",
+          "image": "https://www.themealdb.com/images/media/meals/1529444830.jpg",
+          "duration": "3-8分钟",
+          "tip": "真实数据源只提供成品图；步骤图可先用成品图兜底，后续补充实拍步骤图。"
+        },
+        {
+          "title": "步骤 3",
+          "text": "Stir-fry beef until medium cooked and set aside.",
+          "image": "https://www.themealdb.com/images/media/meals/1529444830.jpg",
+          "duration": "3-8分钟",
+          "tip": "真实数据源只提供成品图；步骤图可先用成品图兜底，后续补充实拍步骤图。"
+        },
+        {
+          "title": "步骤 4",
+          "text": "Stir-fry aromatics and vegetables.",
+          "image": "https://www.themealdb.com/images/media/meals/1529444830.jpg",
+          "duration": "3-8分钟",
+          "tip": "真实数据源只提供成品图；步骤图可先用成品图兜底，后续补充实拍步骤图。"
+        },
+        {
+          "title": "步骤 5",
+          "text": "Add noodles, sauce and beef; stir-fry together.",
+          "image": "https://www.themealdb.com/images/media/meals/1529444830.jpg",
+          "duration": "3-8分钟",
+          "tip": "真实数据源只提供成品图；步骤图可先用成品图兜底，后续补充实拍步骤图。"
+        }
+      ],
+      "source": {
+        "provider": "TheMealDB",
+        "url": "https://www.themealdb.com/meal.php?c=52952",
+        "image": "https://www.themealdb.com/images/media/meals/1529444830.jpg"
+      }
+    },
+    {
+      "id": 53369,
+      "name": "芝麻酱嫩豆腐",
+      "originalName": "Silken Tofu with Sesame Soy Sauce",
+      "cuisine": "家常菜",
+      "category": "凉菜",
+      "taste": "清爽酱香",
+      "image": "https://www.themealdb.com/images/media/meals/j9nray1765657692.jpg",
+      "specs": [
+        {
+          "label": "1-2人份",
+          "people": 2
+        },
+        {
+          "label": "3-4人份",
+          "people": 4
+        }
+      ],
+      "ingredients": [
+        "16 ounces Silken Tofu",
+        "3 tablespoons Soy Sauce",
+        "2 tablespoons Chinese Sesame Sauce",
+        "1 sliced Scallions",
+        "2 tsp Sesame Seed"
+      ],
+      "tools": [
+        "炒锅/汤锅",
+        "菜刀",
+        "砧板"
+      ],
+      "cookingTime": "30-45分钟",
+      "difficulty": "中等",
+      "description": "真实来源：TheMealDB - Silken Tofu with Sesame Soy Sauce。图片为 TheMealDB 真实菜品图，菜谱步骤按项目结构整理。",
+      "steps": [
+        {
+          "title": "步骤 1",
+          "text": "Drain tofu and place it on a large plate.",
+          "image": "https://www.themealdb.com/images/media/meals/j9nray1765657692.jpg",
+          "duration": "3-8分钟",
+          "tip": "真实数据源只提供成品图；步骤图可先用成品图兜底，后续补充实拍步骤图。"
+        },
+        {
+          "title": "步骤 2",
+          "text": "Slice tofu into 1/2-inch slabs and fan them out.",
+          "image": "https://www.themealdb.com/images/media/meals/j9nray1765657692.jpg",
+          "duration": "3-8分钟",
+          "tip": "真实数据源只提供成品图；步骤图可先用成品图兜底，后续补充实拍步骤图。"
+        },
+        {
+          "title": "步骤 3",
+          "text": "Drizzle soy sauce and sesame sauce on top.",
+          "image": "https://www.themealdb.com/images/media/meals/j9nray1765657692.jpg",
+          "duration": "3-8分钟",
+          "tip": "真实数据源只提供成品图；步骤图可先用成品图兜底，后续补充实拍步骤图。"
+        },
+        {
+          "title": "步骤 4",
+          "text": "Garnish with scallions and sesame seeds.",
+          "image": "https://www.themealdb.com/images/media/meals/j9nray1765657692.jpg",
+          "duration": "3-8分钟",
+          "tip": "真实数据源只提供成品图；步骤图可先用成品图兜底，后续补充实拍步骤图。"
+        },
+        {
+          "title": "步骤 5",
+          "text": "Serve cold or gently warmed.",
+          "image": "https://www.themealdb.com/images/media/meals/j9nray1765657692.jpg",
+          "duration": "3-8分钟",
+          "tip": "真实数据源只提供成品图；步骤图可先用成品图兜底，后续补充实拍步骤图。"
+        }
+      ],
+      "source": {
+        "provider": "TheMealDB",
+        "url": "https://www.themealdb.com/meal/53369-silken-tofu-with-sesame-soy-sauce-recipe",
+        "image": "https://www.themealdb.com/images/media/meals/j9nray1765657692.jpg"
+      }
+    }
+  ]
+}
